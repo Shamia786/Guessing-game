@@ -1,0 +1,1 @@
+•	Developed an interactive "Guessing the Number" game using HTML, CSS, and JavaScript. The game challenges users to guess a randomly generated number within a specified range of 100, providing feedback on each guess. This project emphasized creating a dynamic and engaging user experience with a clean and intuitive interface
